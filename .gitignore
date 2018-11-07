@@ -1,8 +1,8 @@
 node_modules/
 dist/
 .idea/
-public/*.js.*
-public/*.js
+public/bundle.js.map
+public/bundle.js
 
 yarn.lock
 yarn-error.log
